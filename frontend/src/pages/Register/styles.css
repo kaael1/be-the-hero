@@ -46,10 +46,10 @@
     margin-top: 8px;
 }
 
-.register-container .content form .input-group {
+.register-container .content form .input-name {
     display: flex;
 }
 
-.register-container .content form .input-group input + input {
+.register-container .content form .input-name input + input {
     margin-left: 8px;
 }
